@@ -3,3 +3,5 @@ Esta es la linea 2 de texto del archivo 1.
 Esta es la linea 3 de texto del archivo 1.
 Esta es la linea 4 de texto del archivo 1.
 Esta es la linea 5 de texto del archivo 1.
+Linea 6 añadida para la tercera version.
+Linea 7 añadida para la tercera version.
