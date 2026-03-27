@@ -1,0 +1,5 @@
+Esta es la linea 1 de texto del archivo 1.
+Esta es la linea 2 de texto del archivo 1.
+Esta es la linea 3 de texto del archivo 1.
+Esta es la linea 4 de texto del archivo 1.
+Esta es la linea 5 de texto del archivo 1.
